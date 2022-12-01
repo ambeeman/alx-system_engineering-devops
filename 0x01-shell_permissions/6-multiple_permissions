@@ -1,0 +1,2 @@
+#!/bin/bash
+chod u+x,g+x,o+r hello
